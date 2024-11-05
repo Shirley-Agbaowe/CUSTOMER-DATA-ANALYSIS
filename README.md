@@ -56,5 +56,8 @@ This involved exploring the data set to answer some questions;
 #### This bar chart shows revenue by region
 [Download here](https://github.com/Shirley-Agbaowe/CUSTOMER-DATA-ANALYSIS/blob/main/REVENUE%20BY%20REGION%20IMAGE.PNG)
 
+#### This bar chart shows the average revenue by region
+[Download](
+
 
 
