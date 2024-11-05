@@ -44,5 +44,8 @@ This involved exploring the data set to answer some questions;
 - COUNT OF CUSTOMERS
 
 
+# Data analysis
+
+
 
 
