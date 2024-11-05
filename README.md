@@ -16,6 +16,20 @@ THIS IS A LADIES IN TECH AFRICA PROJECT POWERED BY THE INCUBATOR HUB IN PARTNERS
 - for querying data
 
 #### Microsoft Power BI
-- for Cleaning and formating data
+- for Cleaning and formatting data
 - for writing Data Analysis Expressions(DAX) expressions
 - for Dashboard  report visualization
+
+#### Github
+- for Portfolio creation
+
+# Data Cleaning and Preparation
+The initial phase involved data cleaning preparation, i performed the following actions;
+- Data loading and preparation
+- Handling variables
+- Creating calculated columns
+
+# Exploratory Data Analysis
+This involved exploring the data set to answer some questions;
+
+
