@@ -45,7 +45,7 @@ This involved exploring the data set to answer some questions;
 
 
 # Data analysis
-
+[download](https://github.com/Shirley-Agbaowe/CUSTOMER-DATA-ANALYSIS/blob/main/REVENUE%20BY%20REGION.PNG#:~:text=REVENUE%20BY%20REGION.-,PNG,-Breadcrumbs)
 
 
 
