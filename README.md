@@ -31,5 +31,16 @@ The initial phase involved data cleaning preparation, i performed the following 
 
 # Exploratory Data Analysis
 This involved exploring the data set to answer some questions;
+- Revenue by region
+- Average revenue by region
+- Revenue by subscription type
+- Percentage revenue by subscription type
+- Average subscription duration
+  
+  #DAX
+- TOTAL REVENUE
+- AVERAGE REVENUE
+- AVERAGE SUBSCRIPTION DURATION
+- COUNT OF CUSTOMERS
 
 
