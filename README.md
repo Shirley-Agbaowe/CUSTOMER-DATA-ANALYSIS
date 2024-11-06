@@ -75,7 +75,7 @@ This involved exploring the data set to answer some questions;
 [Download here](https://docs.google.com/document/d/1vovs4spunrfhwfPVisJlGRe2b3i-FVg7/edit)
 
 #### CUSTOMERDATA DASHBOARD REPORT
-[Download here](
+[Download here](https://docs.google.com/document/d/1Sn6q9zqtP5bwWiDrz0WVChvj4QJLT7eF/edit)
 
 
 
