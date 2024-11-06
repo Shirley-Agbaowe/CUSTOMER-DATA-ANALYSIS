@@ -94,6 +94,8 @@ For SQL analysis
 - Calculate the percentage of total sales contributed by each region.
 - Identify products with no sales in the last quarter.
 
+- Some SQL queries https://docs.google.com/document/d/1W_pL2Mcx2TI8HjbQm598b98PCkDiht7P/edit
+
 
 
 # Data visualization
