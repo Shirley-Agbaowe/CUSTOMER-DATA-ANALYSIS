@@ -62,8 +62,8 @@ This involved exploring the data set to answer some questions;
 #### This bar chart shows the average revenue by region
 [Download here](https://docs.google.com/document/d/1VbTl-8nFyJJkpqVkB5ERk1AB4qC7dRfN/edit)
 
-#### this shows the subscription type by revenue
-[Download](
+#### This bar shows the subscription type by revenue
+[Download](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
 
 
 
