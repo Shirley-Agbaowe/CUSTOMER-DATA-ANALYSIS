@@ -2,10 +2,25 @@
 THIS IS A LADIES IN TECH AFRICA PROJECT POWERED BY THE INCUBATOR HUB IN PARTNERSHIP WITH AFRICA MISSIONS GLOBAL
 
 # Project Overview
-#### This project aims to analyze customer subscription trends across the  four regions with three (3) subscription-type performance packages available, and the subscription duration and revenue generated.
+
+#### This report aims to analyze customer data and understand  subscription trends to know the best action to take for the subscription types not doing well. It presents an in-depth analysis of customer subscription service data, focusing on segmentation, cancellation trends, and overall subscription patterns. the analysis aims to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. 
+
+# Objectives
+-  Analyze the regional performance
+
+- Analyze the most used subscription type
+
+- Understand the characteristics and preferences of different customer purchases
+
+- Identify key trends in cancellations and renewals
+
+- Increase Revenue and Profitability
+
+
 
 # Data Sources
-#### The primary source of data used for this analysis is customerdata.xlsx this is open-source data sourced from the ladies in tech Africa and in conjunction with the incubator hub.
+
+#### The primary source of this data is the Capstone Project and this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
 
 # Tools used
 #### Microsoft Excel
@@ -45,6 +60,7 @@ This involved exploring the data set to answer some questions;
 
 
 # Data analysis
+- Using Excel https://docs.google.com/spreadsheets/d/1GJ9ygB0GNIJoW58nH4p7eezGd2ldQ4Yg/edit?gid=519951116#gid=519951116
 #### This pivot table shows a summarization of revenue by region
 https://docs.google.com/document/d/1bS1sKso_CvzDvMfL4hFwMiTqA_h2JgOe/edit
 
