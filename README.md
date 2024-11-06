@@ -74,5 +74,8 @@ This involved exploring the data set to answer some questions;
 #### This bar chart shows the subscription type by month
 [Download here](https://docs.google.com/document/d/1vovs4spunrfhwfPVisJlGRe2b3i-FVg7/edit)
 
+#### CUSTOMERDATA DASHBOARD REPORT
+[Download here](
+
 
 
