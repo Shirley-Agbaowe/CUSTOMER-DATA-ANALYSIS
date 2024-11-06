@@ -20,7 +20,8 @@ THIS IS A LADIES IN TECH AFRICA PROJECT POWERED BY THE INCUBATOR HUB IN PARTNERS
 
 # Data Sources
 
-#### The primary source of this data is the Capstone Project and this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
+#### The primary source of this data  is CUSTOMERDATA.xlsx https://drive.google.com/drive/u/0/home
+is the Capstone Project and this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
 
 # Tools used
 #### Microsoft Excel
@@ -60,7 +61,7 @@ This involved exploring the data set to answer some questions;
 
 
 # Data analysis
-- Using Excel https://docs.google.com/spreadsheets/d/1GJ9ygB0GNIJoW58nH4p7eezGd2ldQ4Yg/edit?gid=519951116#gid=519951116
+Using Excel https://docs.google.com/spreadsheets/d/1GJ9ygB0GNIJoW58nH4p7eezGd2ldQ4Yg/edit?gid=519951116#gid=519951116
 #### This pivot table shows a summarization of revenue by region
 https://docs.google.com/document/d/1bS1sKso_CvzDvMfL4hFwMiTqA_h2JgOe/edit
 
