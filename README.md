@@ -35,7 +35,8 @@ This involved exploring the data set to answer some questions;
 - Average revenue by region
 - Revenue by subscription type
 - Percentage revenue by subscription type
-- Average subscription duration
+- Subscription type by month
+  
   
   #DAX
 - TOTAL REVENUE
@@ -54,6 +55,9 @@ This involved exploring the data set to answer some questions;
 #### This pivot summarization shows subscription type by revenue
 [Download](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
 
+#### Subscription type by month by revenue
+[Download here](https://docs.google.com/document/d/1ig1QpJQa8VYQmW_nyzTcH64gEEHGFvvy/edit)
+
 
 # Data visualization
 #### This bar chart shows revenue by region
@@ -67,6 +71,9 @@ This involved exploring the data set to answer some questions;
 
 #### This pie chart shows the percentype subscription type by revenue
 [Download here](https://docs.google.com/document/d/1_Hjjej_mcdptUYsIPb5dIsj8WeUBKtEj/edit)
+
+#### This bar chart shows the subscription tyoe by month
+[Download here](https://docs.google.com/document/d/1vovs4spunrfhwfPVisJlGRe2b3i-FVg7/edit)
 
 
 
