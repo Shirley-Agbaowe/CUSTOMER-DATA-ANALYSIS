@@ -46,18 +46,18 @@ This involved exploring the data set to answer some questions;
 
 # Data analysis
 #### This pivot table shows a summarization of revenue by region
-[Download here](https://github.com/Shirley-Agbaowe/CUSTOMER-DATA-ANALYSIS/blob/main/REVENUE%20BY%20REGION.PNG#:~:text=REVENUE%20BY%20REGION.-,PNG,-Breadcrumbs)
+[Download here]
 
 #### This pivot table shows a summarization of average revenue by region
-[Download here](https://github.com/Shirley-Agbaowe/CUSTOMER-DATA-ANALYSIS/blob/main/AVERAGE%20REVENUE%20BY%20REGION.PNG)
+[Download here]
 
 
 # Data visualization
 #### This bar chart shows revenue by region
-[Download here](https://github.com/Shirley-Agbaowe/CUSTOMER-DATA-ANALYSIS/blob/main/REVENUE%20BY%20REGION%20IMAGE.PNG)
+[Download here]
 
 #### This bar chart shows the average revenue by region
-[Download](https://github.com/Shirley-Agbaowe/CUSTOMER-DATA-ANALYSIS/blob/main/AVERAGE%20REVENUE%20BY%20REGION%20IMAGE.PNG)
+[Download here]
 
 
 
