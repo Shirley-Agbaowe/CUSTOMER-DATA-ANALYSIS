@@ -46,7 +46,7 @@ This involved exploring the data set to answer some questions;
 
 # Data analysis
 #### This pivot table shows a summarization of revenue by region
-[Download here]
+[Download here](https://docs.google.com/document/d/1bS1sKso_CvzDvMfL4hFwMiTqA_h2JgOe/edit)
 
 #### This pivot table shows a summarization of average revenue by region
 [Download here]
