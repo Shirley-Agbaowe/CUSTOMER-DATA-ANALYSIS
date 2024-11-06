@@ -46,36 +46,36 @@ This involved exploring the data set to answer some questions;
 
 # Data analysis
 #### This pivot table shows a summarization of revenue by region
-[Download here](https://docs.google.com/document/d/1bS1sKso_CvzDvMfL4hFwMiTqA_h2JgOe/edit)
+https://docs.google.com/document/d/1bS1sKso_CvzDvMfL4hFwMiTqA_h2JgOe/edit
 
 #### This pivot table shows a summarization of average revenue by region
-[Download here](https://docs.google.com/document/d/1vKd1l8JQ6hCAxFpyOMqnLp1xdWBaRQUi/edit)
+https://docs.google.com/document/d/1vKd1l8JQ6hCAxFpyOMqnLp1xdWBaRQUi/edit
 
 #### This pivot summarization shows subscription type by revenue
-[Download](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
+https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit
 
 #### Subscription type by month by revenue
-[Download here](https://docs.google.com/document/d/1ig1QpJQa8VYQmW_nyzTcH64gEEHGFvvy/edit)
+https://docs.google.com/document/d/1ig1QpJQa8VYQmW_nyzTcH64gEEHGFvvy/edit
 
 
 # Data visualization
 #### This bar chart shows revenue by region
-[Download here](https://docs.google.com/document/d/1fyRiwhFOOJirWGItYd4ouJ3ij8WDUhb0/edit)
+https://docs.google.com/document/d/1fyRiwhFOOJirWGItYd4ouJ3ij8WDUhb0/edit
 
 #### This bar chart shows the average revenue by region
-[Download here](https://docs.google.com/document/d/1VbTl-8nFyJJkpqVkB5ERk1AB4qC7dRfN/edit)
+https://docs.google.com/document/d/1VbTl-8nFyJJkpqVkB5ERk1AB4qC7dRfN/edit
 
 #### This bar shows the subscription type by revenue
-[Download here](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
+https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit
 
 #### This pie chart shows the percentage subscription type by revenue
-[Download here](https://docs.google.com/document/d/1_Hjjej_mcdptUYsIPb5dIsj8WeUBKtEj/edit)
+https://docs.google.com/document/d/1_Hjjej_mcdptUYsIPb5dIsj8WeUBKtEj/edit
 
 #### This bar chart shows the subscription type by month
-[Download here](https://docs.google.com/document/d/1vovs4spunrfhwfPVisJlGRe2b3i-FVg7/edit)
+https://docs.google.com/document/d/1vovs4spunrfhwfPVisJlGRe2b3i-FVg7/edit
 
 #### CUSTOMERDATA DASHBOARD REPORT
-[Download here](https://docs.google.com/document/d/1Sn6q9zqtP5bwWiDrz0WVChvj4QJLT7eF/edit)
+https://docs.google.com/document/d/1Sn6q9zqtP5bwWiDrz0WVChvj4QJLT7eF/edit
 
 # Report on CustomerData
 From the analysis, $67.540175M is revenue generated with an average of $1.998 from 4 regions with a customer count of 20 and the subscription types(Basic, Premium, and Standard).
