@@ -54,7 +54,7 @@ This involved exploring the data set to answer some questions;
 
 # Data visualization
 #### This bar chart shows revenue by region
-[Download here]
+[Download here](https://docs.google.com/document/d/1fyRiwhFOOJirWGItYd4ouJ3ij8WDUhb0/edit)
 
 #### This bar chart shows the average revenue by region
 [Download here]
