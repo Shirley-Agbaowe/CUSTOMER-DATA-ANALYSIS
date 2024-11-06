@@ -63,7 +63,10 @@ This involved exploring the data set to answer some questions;
 [Download here](https://docs.google.com/document/d/1VbTl-8nFyJJkpqVkB5ERk1AB4qC7dRfN/edit)
 
 #### This bar shows the subscription type by revenue
-[Download](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
+[Download here](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
+
+#### This pie chart shows the percentype subscription type by revenue
+[Download here](https://docs.google.com/document/d/1_Hjjej_mcdptUYsIPb5dIsj8WeUBKtEj/edit)
 
 
 
