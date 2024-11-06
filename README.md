@@ -120,10 +120,10 @@ https://docs.google.com/document/d/1Sn6q9zqtP5bwWiDrz0WVChvj4QJLT7eF/edit
 # Report on CustomerData
 From the analysis, $67.540175M is revenue generated with an average of $1.998 from 4 regions with a customer count of 20 and the subscription types(Basic, Premium, and Standard).
 - The regions, region number, and revenue breakdown;
-- North- 1-$16,817,972
-- South-2-$16,899.064
-- East-3-$16,958,763
-- West-4-$16,864,374
+- North- 1- $16,817,972
+- South- 2- $16,899.064
+- East- 3- $16,958,763
+- West- 4- $16,864,374
 The East had the highest subscription revenue ($16,958,763), and the North had the lowest revenue generation ($16,817,972).
 Revenue generation by subscription types Basic(33,776,735), Premium( 16,899,064), and standard (16,540,175)  with the Basic subscription type being the most popular among the customers with revenue of $33,776,735) and the least subscription type as $($16,540,175) with an average subscription duration of one(1) year.
 
