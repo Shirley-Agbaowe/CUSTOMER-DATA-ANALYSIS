@@ -61,6 +61,15 @@ This involved exploring the data set to answer some questions;
 
 
 # Data analysis
+
+For Excel
+- Perform an initial exploration of the sales data. 
+- Use pivot tables to summarize 
+- total sales by product, 
+- region, and month.
+- Use Excel formulas to calculate metrics such as average sales per product and 
+-  total revenue by region.
+  
 Using Excel https://docs.google.com/spreadsheets/d/1GJ9ygB0GNIJoW58nH4p7eezGd2ldQ4Yg/edit?gid=519951116#gid=519951116
 #### This pivot table shows a summarization of revenue by region
 https://docs.google.com/document/d/1bS1sKso_CvzDvMfL4hFwMiTqA_h2JgOe/edit
@@ -73,6 +82,18 @@ https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit
 
 #### Subscription type by month by revenue
 https://docs.google.com/document/d/1ig1QpJQa8VYQmW_nyzTcH64gEEHGFvvy/edit
+
+For SQL analysis
+
+- Retrieve the total sales for each product category.
+- Find the number of sales transactions in each region.
+- Find the highest-selling product by total sales value.
+- Calculate total revenue per product.
+- Calculate monthly sales totals for the current year.
+- Find the top 5 customers by total purchase amount.
+- Calculate the percentage of total sales contributed by each region.
+- Identify products with no sales in the last quarter.
+
 
 
 # Data visualization
