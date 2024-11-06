@@ -39,10 +39,9 @@ This involved exploring the data set to answer some questions;
   
   
   #DAX
-- TOTAL REVENUE
-- AVERAGE REVENUE
-- AVERAGE SUBSCRIPTION DURATION
-- COUNT OF CUSTOMERS
+- TOTAL REVENUE=SUM(CUSTOMERDATA[REVENUE]
+- AVERAGE REVENUE=AVERAGE(CUSTOMERDATA[REVENUE]
+- COUNT OF CUSTOMER=DISTINCTCOUNT(CUSTOMERDATA[CUSTOMERID]
 
 
 # Data analysis
@@ -69,10 +68,10 @@ This involved exploring the data set to answer some questions;
 #### This bar shows the subscription type by revenue
 [Download here](https://docs.google.com/document/d/1iDlwJVI873ulKDE0ZV2O48DkPqlcy9z0/edit)
 
-#### This pie chart shows the percentype subscription type by revenue
+#### This pie chart shows the percentage subscription type by revenue
 [Download here](https://docs.google.com/document/d/1_Hjjej_mcdptUYsIPb5dIsj8WeUBKtEj/edit)
 
-#### This bar chart shows the subscription tyoe by month
+#### This bar chart shows the subscription type by month
 [Download here](https://docs.google.com/document/d/1vovs4spunrfhwfPVisJlGRe2b3i-FVg7/edit)
 
 
